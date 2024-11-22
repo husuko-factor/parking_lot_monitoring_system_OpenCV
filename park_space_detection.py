@@ -2,6 +2,8 @@ import cv2
 import pickle
 
 
+
+
 # print(img.shape)
 try:
     with open('car_park_pos', 'rb') as f:
